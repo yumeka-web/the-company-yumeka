@@ -1,0 +1,23 @@
+.dashboard-icon{
+    font-size: 3.5em;
+}
+
+.dashboard-photo{
+    width: 3.5em;
+    height: 3.5em;
+    object-fit: cover;
+    border: 2px solid red;
+}
+
+.edit-icon{
+    font-size: 7em;
+}
+
+.edit-photo{
+    width: 7em;
+    height: 7em;
+    object-fit: cover;
+}
+body{
+    background-color: gray;
+}
